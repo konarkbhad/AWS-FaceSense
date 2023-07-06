@@ -35,10 +35,7 @@ Please refer to the report for more details.
 
 ### Setup of the Lambda function using the container image of the deep learning model 
 - Copy the models and checkpoint of the trained deep learning model
-- Create the docker image using the Dockerfile with the following command:
-```
-docker build -t aditya-bhat/face-recognition .
-```
+- Create the docker image using the Dockerfile.
 - Upload the saved image to AWS ECR.
 - Create and deploy a lambda function using the image uploaded.
 
