@@ -2,12 +2,8 @@
 
 ## PaaS using Amazon Web Services
 
-### Team Members
-- Aditya Deepak Bhat (1222133796)
-- Radhika Kulkarni (1222165776)
-- Swarali Chine (1222583687)
 
-In this project, we aim to build a real-time face recognition application which is serverless and uses Function as a Service model of cloud computing. We are using Raspberry Pi as the edge device to record videos and we are utilizing AWS Lambda based PaaS. The aim is to recognize the faces in the captured videos and return the person’s information, by querying the database, to the device. 
+In this project, aim is to build a real-time face recognition application which is serverless and uses Function as a Service model of cloud computing. We are using Raspberry Pi as the edge device to record videos and we are utilizing AWS Lambda based PaaS. The aim is to recognize the faces in the captured videos and return the person’s information, by querying the database, to the device. 
 
 The following AWS services were used in this project: AWS Lambda, API Gateway, Simple Storage Service (S3), and DynamoDB.
 Please refer to the report for more details.
